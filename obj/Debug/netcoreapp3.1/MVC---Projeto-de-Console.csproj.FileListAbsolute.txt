@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\bin\Debug\netcoreapp3.1\MVC---Projeto-de-Console.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\MVC\MVC---Projeto-de-Console\obj\Debug\netcoreapp3.1\MVC---Projeto-de-Console.genruntimeconfig.cache
