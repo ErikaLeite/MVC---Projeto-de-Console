@@ -9,6 +9,8 @@ namespace MVC___Projeto_de_Console
         static void Main(string[] args)
         {
             ProdutoController prod = new ProdutoController();
+            prod.Cadastrar();
+            
             prod.MostrarProdutos();            
         }
     }

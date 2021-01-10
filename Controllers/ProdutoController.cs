@@ -14,5 +14,10 @@ namespace MVC___Projeto_de_Console.Controllers
             List<Produto> todos = produto.Ler();
             prodView.Listar(todos);
         }
+        public void Cadastrar()
+        {
+            //Utilizamos um método criado em Model e acessamos o produto/método criado dentro de View como argumento
+            produto.Inserir( prodView.CadastrarItem() );
+        }
     }
 }

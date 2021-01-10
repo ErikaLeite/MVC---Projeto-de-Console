@@ -18,5 +18,20 @@ namespace MVC___Projeto_de_Console.Views
            }
             
         }
+        public Produto CadastrarItem()
+        {
+            Produto produto = new Produto();
+
+            Console.WriteLine($"Insira o código do produto:");
+            produto.Codigo = int.Parse(Console.ReadLine());
+
+            Console.WriteLine($"Insira o nome do produto");
+            produto.Nome = Console.ReadLine();
+
+            Console.WriteLine($"Insira o preço do produto");
+            produto.Preco = float.Parse(Console.ReadLine());
+            
+            return produto;
+        }
     }
 }
